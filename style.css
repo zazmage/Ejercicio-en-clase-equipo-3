@@ -1,0 +1,92 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: dimgray;
+  font-family: "Krub", sans-serif;
+}
+
+.header {
+  background-color: red;
+}
+
+.title-complete {
+}
+
+.title-container {
+  display: inline-block;
+}
+
+.title-image {
+  width: 70px;
+}
+
+.title {
+  display: inline;
+}
+
+.subtitle {
+}
+
+.main-content {
+}
+
+.form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+  min-width: 100vw;
+  min-height: 30vh;
+  width: 100%;
+  height: 100%;
+}
+
+.form-table {
+  text-align: center;
+}
+
+.table-row {
+}
+
+.table-data {
+}
+
+.icon {
+  width: 50px;
+}
+
+.user-icon {
+}
+
+.pass-icon {
+}
+
+.button-container {
+  text-align: center;
+}
+
+.button {
+  width: 100px;
+  height: 30px;
+}
+
+.message {
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+.footer-message {
+}
